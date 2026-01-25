@@ -2,11 +2,12 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="50" style="margin: 0 20px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50" style="margin: 0 20px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Vanderbilt_University_Logo.svg" alt="Vanderbilt" height="50" style="margin: 0 20px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="100" style="margin: 0 40px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="100" style="margin: 0 40px;" />
+<img src="https://cdn.vanderbilt.edu/vu-news/files/20230520091241/2022-Vanderbilt-University-wordmark_fi.jpg" alt="Vanderbilt" height="100" style="margin: 0 40px;" />
 <!-- DeepLearning.AI logo placeholder or text badge if SVGs are elusive, mostly they partner with Coursera/AWS -->
 <br/>
+
 <h3>Joint Project: DeepLearning.AI | AWS | IBM | Vanderbilt University</h3>
 
 <p>
