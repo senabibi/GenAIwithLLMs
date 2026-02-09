@@ -1,4 +1,4 @@
-# GenAIwithLLMs: Advanced Agentic AI & Large Language Models Portfolio
+# GenAIwithLLMs: Advanced Agentic AI & Large Language Models
 
 <div align="center">
 
